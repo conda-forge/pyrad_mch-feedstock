@@ -50,8 +50,8 @@ about:
     MeteoSwiss version of Py-ART contains enhanced
     and experimental functionality. MeteoSwiss regularly contributes back to
     the ARM-DOE Py-ART.
-  doc_url: https://meteoswiss-mdr.github.io/pyrad/
-  dev_url: https://github.com/meteoswiss-mdr/pyrad
+  doc_url: https://pyrad-mch.readthedocs.io/en/stable/
+  dev_url: https://github.com/MeteoSwiss/pyrad
 
 extra:
   recipe-maintainers:
