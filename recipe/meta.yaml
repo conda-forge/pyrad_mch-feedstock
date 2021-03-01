@@ -34,7 +34,7 @@ test:
     - pyrad
 
 about:
-  home: http://meteoswiss-mdr.github.io/pyrad/
+  home: https://github.com/MeteoSwiss/pyrad
   license: BSD-3-Clause
   license_family: BSD
   license_file: LICENSE.txt
@@ -56,3 +56,4 @@ about:
 extra:
   recipe-maintainers:
     - meteoswiss-mdr
+    - Wolfidan
