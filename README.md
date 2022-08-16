@@ -216,6 +216,3 @@ Feedstock Maintainers
 * [@Wolfidan](https://github.com/Wolfidan/)
 * [@meteoswiss-mdr](https://github.com/meteoswiss-mdr/)
 
-
-<!-- dummy commit to enable rerendering -->
-
