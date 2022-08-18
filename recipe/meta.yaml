@@ -27,7 +27,6 @@ requirements:
 
   run:
     - python
-    - pyart_mch
 
 test:
   imports:
