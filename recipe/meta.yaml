@@ -28,6 +28,13 @@ requirements:
   run:
     - python
     
+test:
+  requires:
+    - pyart_mch
+  imports:
+    - pyrad
+    
+    
 about:
   home: https://github.com/MeteoSwiss/pyrad
   license: BSD-3-Clause
