@@ -1,6 +1,6 @@
 {% set name = "pyrad_mch" %}
-{% set version = "1.8.3" %}
-{% set sha256 = "e4b044659dcf00f39932f70e20a2d129cff489b55b6b7c06a697a798885d2b9d" %}
+{% set version = "1.8.4" %}
+{% set sha256 = "3c02e957da10298faa0ca65350079ec941151582bda51b3020e43ef17bd195c1" %}
 
 package:
   name: {{ name|lower }}
