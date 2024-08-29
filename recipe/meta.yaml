@@ -1,6 +1,6 @@
 {% set name = "pyrad_mch" %}
-{% set version = "1.8.9" %}
-{% set sha256 = "a53b5f5be250cf6fdf8d4c709ee7fa5c13226e6ca0858987d9f654de45eafb0f" %}
+{% set version = "2.0.0" %}
+{% set sha256 = "a6ccac1164455da54f55b7e47ddc6136ca68908a9d691642de079906fd9cc4a5" %}
 
 package:
   name: {{ name|lower }}
@@ -11,7 +11,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 1
+  number: 0
   script:
     - {{ PYTHON }} -m pip install . --no-deps -vvv
 
