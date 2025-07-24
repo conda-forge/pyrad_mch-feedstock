@@ -139,7 +139,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-pyrad_mch-green.svg)](https://anaconda.org/conda-forge/pyrad_mch) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyrad_mch.svg)](https://anaconda.org/conda-forge/pyrad_mch) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyrad_mch.svg)](https://anaconda.org/conda-forge/pyrad_mch) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyrad_mch.svg)](https://anaconda.org/conda-forge/pyrad_mch) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-pyrad__mch-green.svg)](https://anaconda.org/conda-forge/pyrad_mch) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/pyrad_mch.svg)](https://anaconda.org/conda-forge/pyrad_mch) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/pyrad_mch.svg)](https://anaconda.org/conda-forge/pyrad_mch) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/pyrad_mch.svg)](https://anaconda.org/conda-forge/pyrad_mch) |
 
 Installing pyrad_mch
 ====================
